@@ -203,7 +203,7 @@ class Main:
 
     def run(self):
         os.system('cls' if os.name == 'nt' else 'clear')
-        os.system('title github.com/iamennui/ValorantArduinoColorbot')
+        os.system('title zozo client!')
         print('Enemy Outline Color: Purple')
         self.colorbot.listen()
 
